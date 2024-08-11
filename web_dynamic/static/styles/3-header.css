@@ -1,0 +1,25 @@
+header {
+    background: white;
+    background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: 20px 50%;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+#api_status {
+    float: right;
+    background-color: #cccccc;
+    border: 1px;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin-top: 15px;
+    margin-right: 30px;
+}
+
+/* Background colour */
+.available {
+	background-color: #ff545f !important;
+}
